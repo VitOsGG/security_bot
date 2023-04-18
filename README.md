@@ -7,8 +7,7 @@
 Данный проект - это система охраны вашего дома, офиса или другого помещения и имущества. Камера (например обычная веб-камера вашего ноутбука или компьютера)
 включается и с помощью библиотеки компьютерного зрения фиксирует то, что вы хотите отслеживать и оправляет в чат телеграмм бота.
 
-![1](https://user-images.githubusercontent.com/114734775/232852656-e83eb029-4308-4bb2-a9f7-6a681e4b5e81.jpg) ![2](https://user-images.githubusercontent.com/114734775/232806804-37ee6a2e-cbf0-4e36-beb2-b3ddf0936797.jpg)
-![3](https://user-images.githubusercontent.com/114734775/232807481-daf59656-6e17-43d9-b077-ae949fb25b0f.jpg)
+![1](https://user-images.githubusercontent.com/114734775/232857397-68011c30-ac1a-4b72-9e49-274ea4eca6d5.jpg)) ![2](https://user-images.githubusercontent.com/114734775/232857478-7f50b0d8-fc3d-4107-b737-f070def7533f.jpg) ![3](https://user-images.githubusercontent.com/114734775/232857574-37cce314-f778-446d-8ac8-78eecb552fcc.jpg)
 
 **Структура проекта:**
 * Папка venv
