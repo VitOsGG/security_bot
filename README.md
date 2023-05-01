@@ -10,9 +10,6 @@
 ![1](https://user-images.githubusercontent.com/114734775/232857397-68011c30-ac1a-4b72-9e49-274ea4eca6d5.jpg)) ![2](https://user-images.githubusercontent.com/114734775/232857478-7f50b0d8-fc3d-4107-b737-f070def7533f.jpg) ![3](https://user-images.githubusercontent.com/114734775/232857574-37cce314-f778-446d-8ac8-78eecb552fcc.jpg)
 
 **Структура проекта:**
-* Папка venv
-
-  Не добавлена на GitHUB из-за большого размера (список всех библиотек хранится в документе requirements.txt)
     
 * Папка File_for_study
 
